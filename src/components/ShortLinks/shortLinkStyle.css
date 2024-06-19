@@ -1,0 +1,18 @@
+.shortLink:hover .icon-ctn {
+    box-shadow: 2px 2px 20px #2563eb;
+}
+.shortLink:hover .github-icon-ctn {
+    box-shadow: 2px 2px 20px #52525b;
+}
+
+.shortLink:hover .twitter-icon-ctn {
+    box-shadow: 1px 1px 15px #e2e8f0;
+}
+
+.shortLink:hover .chatgpt-icon-ctn {
+    box-shadow: 2px 2px 20px black;
+}
+
+.shortLink div{
+    transition: all 0.3s ease-in-out;
+}
